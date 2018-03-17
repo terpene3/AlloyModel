@@ -7,7 +7,7 @@ The goal of this project was to compare different statistical models and deep le
 Exploration of the dataset can be found [here](https://github.com/terpene3/AlloyModel/blob/master/data%20exploration%20and%20preprocessing.ipynb).
 
 ## Results
-The results are presented in [here](https://github.com/terpene3/AlloyModel/blob/master/Writeup.ipynb).
+The results are presented [here](https://github.com/terpene3/AlloyModel/blob/master/Writeup.ipynb).
 
 ### Individual Models:
 Logistic Regression <https://github.com/terpene3/AlloyModel/blob/master/logistic%20regression.ipynb>
